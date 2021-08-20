@@ -27,7 +27,7 @@ html, body{
 /* IMAGE */
 
 .img {
-  background-image:url(../images/image-header-mobile.jpg);
+  background-image:url(images/image-header-mobile.jpg);
   background-color: #979797; 
   height: 446px;
   width: 540px;
